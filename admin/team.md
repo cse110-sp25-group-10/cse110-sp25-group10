@@ -11,8 +11,8 @@ Your team page should have the team name, brand, any values you think are import
 
 ## Roster 
 ### Ryan Kung (Team Lead)
-4th-Year Math-CS Major
-Github:[User Page](https://kungryan.github.io/CSE110-Lab1/)
+4th-Year Math-CS Major \
+Github:[User Page](https://github.com/kungryan)
 
 ### Alan Shapow
 overview\
