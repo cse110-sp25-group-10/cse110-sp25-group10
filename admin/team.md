@@ -10,16 +10,46 @@ Your team page should have the team name, brand, any values you think are import
 ## Values
 
 ## Roster 
-- Ryan Kung (Team Lead) 
-- Alan Shapow
-- Alex Pan
-- Audrey Elizabeth Fernandez
-- Branden Sioson
-- Eric Wang
-- Fong Yu Lin
-- Johnson Chung
-  - 3rd Year ECE major 
-  - GitHub: [github.com/JohnsonUCSD](https://github.com/JohnsonUCSD)
-- Loreen Samaan
-- Nicholas Nurwinata
-- Taha Qamar
+### Ryan Kung (Team Lead)
+overview\
+Github:
+
+### Alan Shapow
+overview\
+Github: [github.com/503525](https://github.com/503525)
+
+### Alex Pan
+overview\
+Github: [github.com/alexp616](https://github.com/alexp616)
+
+### Audrey Elizabeth Fernandez
+overview\
+Github:
+
+### Branden Sioson
+overview\
+Github: [github.com/Pahsuleyk](https://github.com/Pahsuleyk)
+
+### Eric Wang
+overview\
+Github: [github.com/erw004](https://github.com/erw004)
+
+### Fong Yu Lin
+overview\
+Github: [github.com/YangLin14](https://github.com/YangLin14)
+
+### Johnson Chung
+3rd Year ECE major\
+GitHub: [github.com/JohnsonUCSD](https://github.com/JohnsonUCSD)
+
+### Loreen Samaan
+overview\
+Github: [github.com/ltsamaan](https://github.com/ltsamaan)
+
+### Nicholas Nurwinata
+overview\
+Github:
+
+### Taha Qamar
+overview\
+Github: [github.com/taha-qam](https://github.com/taha-qam)
