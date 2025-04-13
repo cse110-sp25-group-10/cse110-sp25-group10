@@ -10,46 +10,16 @@ Your team page should have the team name, brand, any values you think are import
 ## Values
 
 ## Roster 
-### Ryan Kung (Team Lead)
-4th-Year Math-CS Major \
-Github:[User Page](https://github.com/kungryan)
-
-### Alan Shapow
-overview\
-Github: [github.com/503525](https://github.com/503525)
-
-### Alex Pan
-overview\
-Github: [github.com/alexp616](https://github.com/alexp616)
-
-### Audrey Elizabeth Fernandez
-overview\
-Github:
-
-### Branden Sioson
-overview\
-Github: [github.com/Pahsuleyk](https://github.com/Pahsuleyk)
-
-### Eric Wang
-overview\
-Github: [github.com/erw004](https://github.com/erw004)
-
-### Fong Yu Lin
-overview\
-Github: [github.com/YangLin14](https://github.com/YangLin14)
-
-### Johnson Chung
-3rd Year ECE major\
-GitHub: [github.com/JohnsonUCSD](https://github.com/JohnsonUCSD)
-
-### Loreen Samaan
-overview\
-Github: [github.com/ltsamaan](https://github.com/ltsamaan)
-
-### Nicholas Nurwinata
-3rd Year CS Major\
-Github: [github.com/Watermelonjar](https://github.com/Watermelonjar)
-
-### Taha Qamar
-overview\
-Github: [github.com/taha-qam](https://github.com/taha-qam)
+| Name                       | Overview                       | Github                                                  |
+| ---------------------      | ------------------------------ | ------                                                  |
+| Ryan Kung (Team Lead)      | 4th Year Math-CS Major         | [kungryan](https://github.com/kungryan)                 |
+| Alan Shapow                |                                | [503525](https://github.com/503525)                     |
+| Alex Pan                   | 2nd Year CS Major              | [alexp616](https://github.com/alexp616)                 |
+| Audrey Elizabeth Fernandez |                                | [audreyelizabethf](https://github.com/audreyelizabethf) |
+| Branden Sioson             |                                | [Pahsuleyk](https://github.com/Pahsuleyk)               |
+| Eric Wang                  |                                | [erw004](https://github.com/erw004)                     |
+| Fong Yu Lin                |                                | [YangLin14](https://github.com/YangLin14)               |
+| Johnson Chung              |                                | [JohnsonUCSD](https://github.com/JohnsonUCSD)           |
+| Loreen Samaan              |                                | [ltsamaan](https://github.com/ltsamaan)                 |
+| Nicholas Nurwinata         | 3rd Year CS Major              | [Watermelonjar](https://github.com/Watermelonjar)       |
+| Taha Qamar                 |                                | [taha-qam](https://github.com/taha-qam)                 |
