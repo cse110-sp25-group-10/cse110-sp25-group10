@@ -17,7 +17,7 @@ Your team page should have the team name, brand, any values you think are import
 ## Roster 
 | Name                       | Overview                       | Github                                                  | Introduction
 | ---------------------      | ------------------------------ | ------                                                  | ----
-| Ryan Kung (Team Lead)      | 4th Year Math-CS Major         | [kungryan](https://github.com/kungryan)                 |
+| Ryan Kung (Team Lead)      | 4th Year Math-CS Major         | [kungryan](https://github.com/kungryan)                 | Growing up, I loved making things and solving problems which led to enjoy both Mathematics and Computer Science. I'm passionate about gaming and am always interested in learning new things. I love exploring niche hobbies like pen spinning and typesetting..
 | Alan Shapow                |                                | [503525](https://github.com/503525)                     |
 | Alex Pan                   | 2nd Year CS Major              | [alexp616](https://github.com/alexp616)                 |
 | Audrey Elizabeth Fernandez |                                | [audreyelizabethf](https://github.com/audreyelizabethf) |
