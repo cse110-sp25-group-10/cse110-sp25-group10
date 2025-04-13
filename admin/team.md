@@ -22,7 +22,7 @@ Your team page should have the team name, brand, any values you think are import
 | Alex Pan                   | 2nd Year CS Major              | [alexp616](https://github.com/alexp616)                 |
 | Audrey Elizabeth Fernandez |                                | [audreyelizabethf](https://github.com/audreyelizabethf) |
 | Branden Sioson             |                                | [Pahsuleyk](https://github.com/Pahsuleyk)               |
-| Eric Wang                  |                                | [erw004](https://github.com/erw004)                     |
+| Eric Wang                  | 2nd Year Computer Science Major| [erw004](https://github.com/erw004)                     | From the Bay Area. Likes basketball, watching shows, and trying new freaky things. Academically interested in areas involving Machine Learning, especially if it involves robotics.
 | Fong Yu Lin                | 3rd-Year Computer Science Major| [YangLin14](https://github.com/YangLin14)               | Originally from Taiwan 🇹🇼, I moved to California with my mother about five years ago. My academic path initially led me to Electrical Engineering, but my fascination with building software, exploring AI, and solving complex problems prompted a switch to Computer Science 💻. I thrive on learning new technologies and collaborating on impactful projects. I like outdoor activites and play sports under good weather 🚲 🏸 🏓. I also love watching anime and play video games in my free time 🎮.
 | Johnson Chung              |                                | [JohnsonUCSD](https://github.com/JohnsonUCSD)           |
 | Loreen Samaan              |                                | [ltsamaan](https://github.com/ltsamaan)                 |
