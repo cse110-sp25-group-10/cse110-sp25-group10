@@ -47,7 +47,7 @@ overview\
 Github: [github.com/ltsamaan](https://github.com/ltsamaan)
 
 ### Nicholas Nurwinata
-3rd Year CS Major
+3rd Year CS Major\
 Github: [github.com/Watermelonjar](https://github.com/Watermelonjar)
 
 ### Taha Qamar
