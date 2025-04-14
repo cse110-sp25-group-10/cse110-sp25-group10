@@ -6,6 +6,10 @@ Your team page should have the team name, brand, any values you think are import
 # Team 10X
 
 ## Brand
+<p align="center">
+  <img src="branding/brand.png" width="512" height="512">
+</p>
+
 
 ## Values
 - **Innovation**: We strive to think outside the box and create 10X cutting-edge solutions.
