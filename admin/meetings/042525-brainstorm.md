@@ -3,6 +3,7 @@
 
 ### Tools/Location
 Remote through Zoom
+
 Collaboration through Miro
 
 ### Start and End time
