@@ -114,7 +114,7 @@ Our purpose is to better ourselves as software engineers and team members by cre
 - **Nicholas Nurwinata** - Improve leadership skills in software development, improve communication and work in a proper format. Being an Architect  
 - **Johnson Chung** - Learn how to work in a team environment and how to use the tools needed for it. Also to be more fluent in Javascript, HTML, and CSS.  
 - **Alex Pan** - Learn more about automatic build processes to understand open-source development better.
-- **Alan Shapow** - 
+- **Alan Shapow** - Get comfortable with communication in a team environment, and learn the fundamentals of software design to a point where I can successfully build, deploy, and maintain my own software projects moving forwards. Gaining familiarity with web development.
 ---
 
 <!-- **Signature: _________________** -->
