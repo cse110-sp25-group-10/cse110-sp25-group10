@@ -75,3 +75,5 @@ There are still some holes in our process that we want to address. For example, 
 Additionally, we need to figure out where to put documentation, since as of now, it is just hosted at `githubpagesite/docs/index.html`.
 
 We also may want to consider a staging branch that gets pushed to very often, and push to main much less. This will make it easier to backtrack to a solidly working version of our project in case we ever find the need to.
+
+Finally, we need to look more into "code quality tools." From what we understand now, they just seem like glorified linters, and we don’t want to overly complicate our pipeline with things that we don’t understand.
