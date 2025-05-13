@@ -2,6 +2,22 @@
 ## Table of Contents
 ### [HTML](#html-styling)
 ### [CSS](#css-styling)
+- [Structuring](#css-structuring)
+- [Validation](#css-validation)
+- [!important](#!important)
+- [CSS Comments](#css-comments)
+- [Declaration Stops](#Declaration-Stops)
+- [Property Name Stops](Property-Name-Stops)
+- [Rule Separation](#Rule-Separation)
+- [Double Quotes around values](#Double-Quotes-around-values)
+- [Shorthand vs Longhand](#Shorthand-vs-Longhand)
+- [Selectors](#Selectors)
+  - [ID Selectors](#ID-Selectors)
+  - [Type Selectors](#Type-Selectors)
+- [Units](#units)
+  - [Relative vs Absolute Units](#Relative-vs-Absolute-Units)
+  - [Values to turn off properties](#Values-to-turn-off-properties)
+- [Declaration Order](#Declaration-Order)
 ### [JavaScript](#javascript-styling)
 - [Variables](#variables)
   - [Variable Names](#variable-names)
@@ -17,6 +33,145 @@
 ## HTML Styling
 
 ## CSS Styling
+### CSS Structuring
+Use `/* || */` to separate CSS sections for organization so it is easy to navigate to sections using the find tool.
+```css
+/* || Text Styling */
+```
+
+### CSS Validation
+Use [W3C CSS validator](https://jigsaw.w3.org/css-validator/) to make sure CSS is valid before pushing.
+
+### !important
+Avoid using `!important` whenever possible.
+```css
+.bad-code {
+  /* Avoid */
+  font-size: 4rem !important;
+}
+```
+
+### CSS Comments
+Use CSS-style comments to comment code that isn't self-documenting. Also note that you should leave a space between the asterisks and the comment. Put your comments on separate lines preceding the code they are referring to, like so:
+```css
+h3 {
+  /* Creates a red drop shadow, offset 1px right and down, w/2px blur radius */
+  text-shadow: 1px 1px 2px red;
+  /* Sets the font-size to double the default document font size */
+  font-size: 2rem;
+}
+```
+### Declaration Stops
+Use `;` after declaration (even the last one) for clarity.
+```css
+/* Avoid */
+.test {
+  display: block;
+  height: 100px
+}
+
+/* Recommended */
+.test {
+  display: block;
+  height: 100px;
+}
+```
+
+### Property Name Stops
+Use a space to separate property rule and values for clarity.
+```css
+/* Not recommended */
+h3 {
+  font-weight:bold;
+}
+
+/* Recommended */
+h3 {
+  font-weight: bold;
+}
+```
+### Rule Separation
+Always put a blank line between rules for clarity/
+```css
+html {
+  background: #fff;
+}
+
+body {
+  margin: auto;
+  width: 50%;
+}
+```
+
+### Double Quotes around values
+Where quotes can or should be included, use them, and use double quotes. For example:
+```css
+[data-vegetable="liquid"] {
+  background-color: goldenrod;
+  background-image: url("../../media/examples/lizard.png");
+}
+```
+
+### Shorthand vs Longhand
+Use longhand instead of shorthand when possible for clarity and to avoid issues where values must be in a certain order.
+```css
+/* Use Longhand: */
+font-variant: small-caps;
+font-weight: bold;
+font-size: 2rem;
+line-height: 1.5;
+font-family: sans-serif;
+/* Instead of Shorthand: */
+font: small-caps bold 2rem/1.5 sans-serif;
+```
+### Selectors
+### ID Selectors
+Avoid using ID selectors when possible because they are:
+- less flexible; you can't add more if you discover you need more than one.
+- harder to override because they have higher specificity than classes.
+- 
+### Type Selectors
+- Unless necessary (for example with helper classes), do not use element names in conjunction with classes.
+- Avoiding unnecessary ancestor selectors is useful for performance reasons.
+```css
+/* Avoid: */
+ul.example {}
+div.error {}
+
+/* Recommended */
+.example {}
+.error {}
+```
+### Units
+### Relative vs Absolute Units
+Use relative units instead of absolute units whenever possible.
+```css
+/* Avoid */
+font-size: 14px;
+
+/* Recommended */
+font-size: 2rem;
+```
+### Values to turn off properties
+Use `0` instead of `none`
+```css
+border: 0;
+```
+
+### Declaration Order
+- Alphabetize declarations
+- Sort declarations consistently within a project. In the absence of tooling to automate and enforce a consistent sort order, consider putting declarations in alphabetical order in order to achieve consistent code in a way that is easy to learn, remember, and manually maintain.
+- Ignore vendor-specific prefixes for sorting purposes. However, multiple vendor-specific prefixes for a certain CSS property should be kept sorted (e.g. -moz prefix comes before -webkit).
+```css
+background: fuchsia;
+border: 1px solid;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+border-radius: 4px;
+color: black;
+text-align: center;
+text-indent: 2em;
+```
 
 ## JavaScript Styling
 ### Variables
