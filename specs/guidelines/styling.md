@@ -1,6 +1,18 @@
 # Team 10x Styling Guidelines
 ## Table of Contents
 ### [HTML](#html-styling)
+- [Doctype](#Doctype)
+- [Document Language](#Document-Language)
+- [Charset](#Document-Character-Set)
+- [Viewport](#Viewport-Meta-Tag)
+- [Validation](#HTML-Validation)
+- [Separation of Concerns](#Separation-of-Concerns)
+- [Attributes](#Attributes)
+  - [Boolean Attributes](#Boolean-Attributes)
+- [Case Conventions](#Case-Conventions)
+- [Singleton Tags](#Singleton-Tags)
+- [Class and ID names](#Class-and-ID-names)
+- [Media](#Media)
 ### [CSS](#css-styling)
 ### [JavaScript](#javascript-styling)
 - [Variables](#variables)
