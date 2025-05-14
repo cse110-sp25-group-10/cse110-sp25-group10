@@ -75,8 +75,7 @@
 #### In terms of design:
   - We want to get all of our features set - we have a general user workflow down in the UI, but we don't really know all of the hard specifications yet.
   - A starter flowchart is in the works, and will be released by Nicholas Nurwinata in the coming days.
-  - (Alan Shapow): "We're currently working on the card prototypes, but we're not exactly sure what will be on the cards."
-    - Card customization will be on the agenda for Thursday.
+  - Card customization will be on the agenda for Thursday.
     - We certainly want to limit what the user is capable of doing to a card, but this is a general idea and more specifics will be ironed out later.
 
 ### Retrospective
