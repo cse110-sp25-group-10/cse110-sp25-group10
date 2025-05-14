@@ -59,12 +59,15 @@
 #### This week, we have several issues that must be addressed.
   - The main semantic HTML and CSS for the cards must be prototyped. 
     - Alan and Eric are currently on this!
+    - See: [#13](https://github.com/cse110-sp25-group-10/Flashcard-Project/issues/13)
   - Taha is currently set to work on testing and javascript.
   - We want to make sure that user inputs are good.
   - For the Javascript team, we will want to be able to take user input, and then create a component.
     - These will be turned into cards.
+    - See: [#14](https://github.com/cse110-sp25-group-10/Flashcard-Project/issues/14)
   - At some point, we will need mobile and rescaled layouts for the UI and UX. 
     - This is a **low priority** issue, but it must be addressed at some point prior to the final build.
+    - See: [#16](https://github.com/cse110-sp25-group-10/Flashcard-Project/issues/16)  
 #### We have several things we want to start considering when it comes to testing:
   - We want to make sure to test that user input works.
   - We also want to make sure that, during our testing, we spend some time manually clicking around on HTML elements. 
@@ -91,14 +94,14 @@
 ## TODOs
 
 - [ ] HTML / CSS of cards must be prototyped.
-  - See: #13
+  - See: [#13](https://github.com/cse110-sp25-group-10/Flashcard-Project/issues/13)
 - [ ] Javascript should be written to take user input and create components from them. 
-  - See: #14
+  - See: [#14](https://github.com/cse110-sp25-group-10/Flashcard-Project/issues/14)
 - [ ] Mobile and Rescaled Layouts should eventually be made. 
   - This is currently **low priority**.
-  - See: #16
+  - See: [#16](https://github.com/cse110-sp25-group-10/Flashcard-Project/issues/16)
 - [ ] Hard feature specifications **must** be ironed out.
-  - See: #15
+  - See: [#15](https://github.com/cse110-sp25-group-10/Flashcard-Project/issues/15)
 - [ ] Card Customization must be clearly defined.
   - We want to outline what a user can and can't do when creating cards.
 
