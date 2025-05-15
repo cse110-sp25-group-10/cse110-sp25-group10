@@ -1,6 +1,18 @@
 # Team 10x Styling Guidelines
 ## Table of Contents
 ### [HTML](#html-styling)
+- [Doctype](#Doctype)
+- [Document Language](#Document-Language)
+- [Charset](#Document-Character-Set)
+- [Viewport](#Viewport-Meta-Tag)
+- [Validation](#HTML-Validation)
+- [Separation of Concerns](#Separation-of-Concerns)
+- [Attributes](#Attributes)
+  - [Boolean Attributes](#Boolean-Attributes)
+- [Case Conventions](#Case-Conventions)
+- [Singleton Tags](#Singleton-Tags)
+- [Class and ID names](#Class-and-ID-names)
+- [Media](#Media)
 ### [CSS](#css-styling)
 - [Structuring](#css-structuring)
 - [Validation](#css-validation)
@@ -31,6 +43,72 @@
 - [Comments](#comments)
 
 ## HTML Styling
+### Doctype
+Use HTML5. 
+```html
+<!doctype html>
+```
+### Document Language
+Always set the language using the `lang` tag on the `html` tag.
+```html
+<html lang="en-US"></html>
+```
+### Document Character Set
+Always set the document character set.
+```html
+<meta charset="utf-8"></html>
+```
+### Viewport Meta Tag
+Use the viewport meta tag for better use on mobile devices
+```html
+<meta name="viewport" content="width=device-width">
+```
+### HTML Validation
+Make sure your HTML passes validation before pushing. Use [W3C HTML validator](https://validator.w3.org/nu/)
+
+### Separation of Concerns
+Avoid using the style attribute and ```style``` and ```script``` tags whenever possible. Move everything into separate stylesheets/scripts but try to keep as few stylesheets/scripts as possible.
+```html
+<!-- Avoid -->
+<p style="font-size: 1rem">Lorem ipsum.</p>
+<script>
+  const p = document.querySelector("p");
+</script>
+```
+
+### Attributes
+Use double quotes for attribute values whenever possible
+```html
+<img src="images/logo.jpg" alt="A circular globe icon" class="no-border">
+```
+### Boolean Attributes
+Leave boolean attributes as is.
+```html
+<input required>
+```
+
+### Case Conventions
+Use lowercase for all case-insensitive constructs.
+```html
+<p class="nice">This looks nice and neat</p>
+```
+### Singleton Tags
+Don't use XHTML styling for singleton tags. *Don't:*
+```html
+<!-- Don't do this! -->
+<input />
+```
+
+### Class and ID names
+Use semantic class/ID names, and separate multiple words with hyphens (kebab case). Don't use camel case.
+```html
+<p class="editorial-summary">Blah blah blah</p>
+```
+### Media
+Provide alternative contents for media such as alternative text when possible.
+```html
+<img src="spreadsheet.png" alt="Spreadsheet screenshot.">
+```
 
 ## CSS Styling
 ### CSS Structuring
