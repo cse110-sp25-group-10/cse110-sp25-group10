@@ -2,17 +2,14 @@
 
 ## Table of Contents
 
-- [Team 10x - May 15 Meeting Minutes](#team-10x---may-13-meeting-minutes)
+- [Team 10x - May 15 Meeting Minutes](#team-10x---may-15-meeting-minutes)
   - [Table of Contents](#table-of-contents)
   - [Attendance](#attendance)
   - [Meeting Agenda](#meeting-agenda)
   - [Talking Points](#talking-points)
-    - [Standup](#standup)
-    - [State of Affairs](#state-of-affairs)
-      - [Current Issues:](#this-week-we-have-several-issues-that-must-be-addressed)
-      - [State of Testing:](#we-have-several-things-we-want-to-start-considering-when-it-comes-to-testing)
-      - [State of Design:](#in-terms-of-design)
-    - [Retrospective](#retrospective)
+    - [Check-in](#check-in)
+    - [Features We Want To Work On And Finish By End Of Sprint](#features-we-want-to-work-on-and-finish-by-end-of-sprint)
+    - [Repo Structure](#repo-structure)
   - [TODOs](#todos)
   - [Summary](#summary)
 
@@ -38,7 +35,7 @@
 
 ## Talking Points
 
-### State of Affairs
+### Check-in
 
 - Eric Wang and Alan Shapow: 
   - Demoed basic flashcard 
@@ -46,11 +43,11 @@
   - Showed sketch of UI
 - Ryan Kung:
   - Added guidelines for HTML, CSS, and JS
-- Alex Pan
-  - Wor on pull request basic pipeline 
-- Fong Lin
-  - Made JS for basic card creation logics and flipping, also included the voice playback
-- Johnson Chung and Branden Sioson
+- Alex Pan and Nicholas Nurwinata:
+  - Basic pipline stuff with ESLint and human code review and answered questions anyone had about it
+- Fong Lin and Taha Qamar:
+  - Made JS for basic card creation logics and flipping
+- Johnson Chung and Branden Sioson:
   - Waiting to be able to test
 
 ### Features We Want To Work On And Finish By End Of Sprint
@@ -61,16 +58,16 @@ We wanted the basic functionality to work on desktop by the end of the sprint.
 - [x] Being able to update flashcard
 - [x] Being able to delete flashcard
 - [ ] Voice recording
-      - Pressing record shows time
-      - Will probably implement last
+  - Pressing record shows time
+  - Will probably implement last
 - [x] Decks
-      - For now, just want to show all cards in deck
+  - For now, just want to show all cards in deck
 - [ ] Study and review feature (Quizing)
 - [ ] Timer on how long to say each card
 - [ ] Compatibility with mobile phones
-      - Low priority until it works on desktop
+  - Low priority until it works on desktop
 
-### Repo Strucutre
+### Repo Structure
 After some discussing, we decided to seperate our directory by components. We also decided to have a prototype folder to seperate out features we are testing.  
 However, we still need to address the repos themselves. We currently have two seperate repos: one for the Flashcard Project, and the other for the Team.  
 We need to combine these together.  
